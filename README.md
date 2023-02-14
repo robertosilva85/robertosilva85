@@ -31,5 +31,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+## 💬 Let's talk!
 
-**Did you like my profile? Let's talk more by connecting with me on my ** [![Linkedin Badge](https://img.shields.io/badge/-robertovieiradasilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertovieiradasilva/)](https://www.linkedin.com/in/robertovieiradasilva/)
+**Let's talk more by connecting with me on my** [![Linkedin Badge](https://img.shields.io/badge/-robertovieiradasilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertovieiradasilva/)](https://www.linkedin.com/in/robertovieiradasilva/)
