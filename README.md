@@ -2,7 +2,20 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,</h1>
-<p align = "justify">I am Fullstack Developer looking for new challenges every day.</p>
+<p align = "justify">I am Fullstack Developer looking for new challenges every day. Below you have more about me:</p>
+
+- 🐶 Pet lover;
+- 📷 Photography hobby;
+- 🥤 Mango Dragon Fruit drink is my favorite;
+
+## 🧑🏻‍🏫 Certificates
+
+|   |   |
+|:-:|:-:|
+| <a href="https://www.credly.com/badges/c54f891b-086f-4759-a140-63d385232b74/public_url"><img src="https://user-images.githubusercontent.com/20528537/218616086-2f7aed94-108a-4ac5-9efd-7b68cee9e506.png" width="150px" /></a> | <img src="https://user-images.githubusercontent.com/20528537/218616530-a6f23a6f-aa0c-47ef-a846-54b23991ca74.png" width="150px" /> | 
+| ✅ 100% Completed  |  👨‍💻 In Progress  |
+
+<br />
 
 ## 🚀💻 Technologies & Tools
 
