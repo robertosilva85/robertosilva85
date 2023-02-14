@@ -32,4 +32,4 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-**Did you like my profile? Let's talk more connecting with me in my** [![Linkedin Badge](https://img.shields.io/badge/-robertovieiradasilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertovieiradasilva/)](https://www.linkedin.com/in/robertovieiradasilva/)
+**Did you like my profile? Let's talk more by connecting with me on my ** [![Linkedin Badge](https://img.shields.io/badge/-robertovieiradasilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertovieiradasilva/)](https://www.linkedin.com/in/robertovieiradasilva/)
